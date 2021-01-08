@@ -1,0 +1,101 @@
+name,id,address,latitude,longitude,rating,capacity,genre
+The Mohawk,45f4fde8f964a52001441fe3,"['912 Red River St (at E 10th St.)', 'Austin, TX 78701', 'United States']",30.2700005920448,-97.7359316400037,8.5,900,All
+Scottish Rite Theatre,4b65efe6f964a5209d092be3,"['207 W 18th St (Lavaca)', 'Austin, TX 78701', 'United States']",30.2799100597066,-97.740631862453,8.2,,
+Cheer Up Charlie's,53016e04498e2a3d3f703437,"['900 Red River St (at 9th St)', 'Austin, TX 78701', 'United States']",30.2695906273625,-97.7361868323065,8.8,400,"All Genres, Avant-Garde, Dance, Electronic, Experimental, Noise, Psychedelic "
+Empire Control Room,512ba6e51648d4cde4dd39b7,"['606 E 7th St (Red River)', 'Austin, TX 78701', 'United States']",30.267499086669,-97.7361576064577,8.2,300,All
+The Townsend,54f12e4e498e53d73df2472b,"['718 Congress Ave Ste 100 (8th St)', 'Austin, TX 78701', 'United States']",30.269611,-97.742448,8.2,,"R&B, Jazz, Hip-Hop"
+Cactus Cafe,40b13b00f964a5205af71ee3,"['2247 Guadalupe Street (at 24th)', 'Austin, TX 78712', 'United States']",30.2864812,-97.7411482,8.4,153,"Acoustic, Americana, Folk, Singer-Songwriter "
+Stubb's Waller Creek Amphitheatre,5513b79d498e85e653f255ad,"['801 Red River St', 'Austin, TX 78701', 'United States']",30.2687861852589,-97.736132095583,7.9,1800,All
+Antone's,568c8b18498edb7318117b20,"['305 E 5th St', 'Austin, TX 78701', 'United States']",30.2662424027562,-97.7403802925383,8.7,700,"Blues, All"
+The Belmont,44fefd89f964a5209e381fe3,"['305 W 6th St (Lavaca St.)', 'Austin, TX 78701', 'United States']",30.2687666699304,-97.7455340765374,8,1000,All
+Ethics Music Lounge,56cc0c4fcd101152a27ddee9,"['422 Congress Ave Ste C (W. 5th St.)', 'Austin, TX', 'United States']",30.2729209,-97.7443863,7.2,,
+Stubb's Bar-B-Q,40fb0f00f964a520fc0a1fe3,"['801 Red River St (at E 8th St)', 'Austin, TX 78701', 'United States']",30.2685160743278,-97.7362558082898,8.1,1800,All
+Shiner's Saloon,49b6d215f964a52013531fe3,"['422 Congress Ave Ste D (at 5th St)', 'Austin, TX 78701', 'United States']",30.2671262965541,-97.7433219637476,8.1,250,"Acoustic, Americana, Country, Folk, Rock, Roots Music, Singer-Songwriter, Southern Rock "
+Speakeasy,40b13b00f964a520e8f31ee3,"['412 Congress Ave (btwn 4th & 5th St.)', 'Austin, TX 78701', 'United States']",30.266669079807,-97.7434272591685,7.9,400,"Acoustic, Blues, Classic Rock, Folk, R&B, Rock "
+Cooper's Old Time Pit Bar-B-Que,5676037b498e1b7d98c935c7,"['217 Congress Ave', 'Austin, TX 78701', 'United States']",30.2649655314454,-97.743746638298,8.5,,
+The Parish Underground,4d6ea141451c41bd39102845,"['214 E 6th St', 'Austin, TX 78701', 'United States']",30.2676766073193,-97.7407187016675,7.4,450,All
+Nuno's Bar & Grill,440fee3ef964a520b1301fe3,"['422 E 6th St (Neches)', 'Austin, TX 78701', 'United States']",30.2671127319336,-97.7383499145508,7.4,,
+Maggie Mae's Gibson Room,514158efe4b05078b2fb62e2,"['323 E 6th St Austin, TX 78701', 'Austin, TX 78701', 'United States']",30.2670087838724,-97.739654170771,7.3,1000,"Alternative, Blues, Rock "
+Moody Theater Dining Room,4dbb00e06e815ab0de60413b,"['Austin, TX', 'United States']",30.2653435650721,-97.7464844821024,7.8,,
+3Ten Austin City Limits Live,56e428dc498e7d17c76c9e78,"['310 Willie Nelson Blvd', 'Austin, TX 78701', 'United States']",30.2652663172136,-97.7472926343999,7.7,350,All
+The Studio by HGTV,4f4c421f7beb1fbf46fdb3b3,"['304 W 4th St (between Lavaca & Guadalupe)', 'Austin, TX 78701', 'United States']",30.2670816839902,-97.7463531433581,7.3,,
+The Gatsby,51cb98e0498ed96620f11580,"['708 E 6th St', 'Austin, TX 78701', 'United States']",30.2661758176063,-97.7355702754467,7.5,,
+Austin City Limits Live,4c77cbe5947ca1cd90694837,"['310 Willie Nelson Blvd (at Guadalupe St)', 'Austin, TX 78701', 'United States']",30.2652881146355,-97.7472595526079,9.3,2750,All
+Hotel Vegas,4ca6c35f931bb60c71fd96e2,"['1500 E 6th St (Onion St)', 'Austin, TX 78702', 'United States']",30.2635076876409,-97.7271576119322,8.5,175,All
+Darwin's Pub,414e1d80f964a520e01c1fe3,"['223 E 6th St (at San Jacinto Boulevard)', 'Austin, TX 78701', 'United States']",30.2673275127918,-97.740521604133,6.9,250,"Blues, Rock"
+Driskill Victorian Room,4ba452f8f964a520fe9538e3,"['604 Brazos St', 'Austin, TX 78701', 'United States']",30.2677474978749,-97.7416536818155,6.9,150,"Acoustic, Alt Country, Bluegrass, Blues, Country, Folk, Folk Rock, Jazz, Rockabilly, Singer-Songwriter "
+Geraldine's,564262d7498ee76587cb98f6,"['605 Davis St', 'Austin, TX 78701', 'United States']",30.2600431857872,-97.7391260147152,8.5,240,All
+Spiderhouse Ballroom,49f76669f964a520976c1fe3,"['2906 Fruth St (at W 29th St)', 'Austin, TX 78705', 'United States']",30.295268151632,-97.7421535270058,8.5,350,All
+Central Presbyterian Church,440fec14f964a520aa301fe3,"['200 E 8th St (Brazos Street)', 'Austin, TX 78701', 'United States']",30.269627670249,-97.7405642279355,6.7,,
+The Nook Amphitheater,5137f999222f7c7f11aee04d,"['309 E 6th St', 'Austin, TX 78701', 'United States']",30.2670731658885,-97.7401495189234,6.8,,
+Cedar Street Courtyard,40b13b00f964a5207af31ee3,"['208 W 4th St (Colorado & Lavaca)', 'Austin, TX 78701', 'United States']",30.2668293153013,-97.7453130656711,8.5,700,All
+Dirty Dog Bar,49fc6aa9f964a5209e6e1fe3,"['505 E 6th St (at Neches)', 'Austin, TX 78701', 'United States']",30.2666047795758,-97.7379808626942,6.9,,
+Alta's Cafe,56dd2ff7498e4cf4fa086e05,"['Austin, TX', 'United States']",30.2605185,-97.7417291,7.5,,
+The Parish,440fee99f964a520b2301fe3,"['214-C E 6th St (San Jacinto)', 'Austin, TX 78701', 'United States']",30.2677532636095,-97.7407452305068,7.4,450,All
+Plush,40c7a480f964a520fb001fe3,"['617 Red River St (at 7th St.)', 'Austin, TX 78701', 'United States']",30.2673256044888,-97.7367544367637,7.7,105,"Electronic, DJ"
+Austin City Hall,458c29a3f964a520f63f1fe3,"['301 W 2nd St', 'Austin, TX 78701', 'United States']",30.2649994559684,-97.747174149794,7.1,4000,All
+Karma Lounge,42accc80f964a5204a251fe3,"['105 E 5th St (btw Congress and Colorado)', 'Austin, TX 78701', 'United States']",30.2667892408839,-97.7422693111723,6.7,,
+Empire Garage,51300d5c7e27eb71082d6d5a,"['604 E 7th St', 'Austin, TX 78701', 'United States']",30.2674572697655,-97.7362662357271,6.3,1000,All
+Donn's Depot,40b13b00f964a52097f31ee3,"['1600 W 5th St', 'Austin, TX 78703', 'United States']",30.273781,-97.763382,7.7,200,"Country, Honky Tonk"
+Paramount Theatre,44b75631f964a5206d351fe3,"['713 Congress Ave (7th St.)', 'Austin, TX 78701', 'United States']",30.2694569131146,-97.7420771569299,8.9,1200,All
+Valhalla,4b11ed18f964a520138723e3,"['710 Red River St (at E 8th St)', 'Austin, TX 78701', 'United States']",30.2680456009563,-97.7368071759967,7.8,200,"DJ, Electronic"
+Swan Dive,4ce72f260f196dcbcdb63cae,"['615 Red River St. (7th Street)', 'Austin, TX 78701', 'United States']",30.2671990934993,-97.7367785544721,6.3,250,All
+Rattle Inn,4edd4243f9f4181fa47573b7,"['610 Nueces St (W 6th St)', 'Austin, TX 78701', 'United States']",30.2701899338298,-97.7484040780401,6.3,,
+Rebel's Saloon,55e1177c498e967646313b13,"['305 W 5th St', 'Austin, TX 78701', 'United States']",30.2677319703233,-97.746037538781,6.3,,
+Elysium,422f8e00f964a520fc1f1fe3,"['705 Red River St (at 7th Street)', 'Austin, TX 78701', 'United States']",30.2676760194772,-97.736654533514,7.2,500,"Alternative, DJ, Electronic, Gothic, Industrial, Rock "
+Peckerheads,4ac82f84f964a520e3bb20e3,"['402 E 6th St (at Trinity)', 'Austin, TX 78701', 'United States']",30.2671676680588,-97.7390492528509,6.2,100,All
+Maggie Mae's,40b13b00f964a520c5f31ee3,"['323 E 6th St (at Trinity)', 'Austin, TX 78701', 'United States']",30.2670993659674,-97.739761907307,6.9,1000,"Alternative, Blues, Rock "
+Voodoo Room,52016d408bbdf1a6d233e3c2,"['419 E 6th St', 'Austin, TX 78701', 'United States']",30.2668255623315,-97.7386312182693,6.2,250,"Electronic, DJ"
+Scoot Inn,441d4341f964a52060311fe3,"['1308 E 4th St (Navasota)', 'Austin, TX 78702', 'United States']",30.2621007971572,-97.7294659452819,7.7,1050,All
+The Chuggin' Monkey,44185019f964a5201d311fe3,"['219 E 6th St (btw Brazos St. & San Jacinto Blvd.)', 'Austin, TX 78701', 'United States']",30.2674100705107,-97.740701178534,6.9,,
+McDonald's Loft,56dfd2c6498ede1780dd19e6,"['Austin, TX', 'United States']",30.2645162806129,-97.7404543599384,6.2,,
+Raptor House at Arlyn Studio,513ce0fde4b0b886acf79d93,"['200 Academy Dr', 'Austin, TX 78704', 'United States']",30.2528255621148,-97.7464261259151,7.6,,
+The Blind Pig Pub,40b13b00f964a52069f31ee3,"['317 E 6th St (btw San Jacinto Boulevard & Trinity Street)', 'Austin, TX 78701', 'United States']",30.2671396447629,-97.739826062709,6.9,1300,"Classic Rock, Country, Pop, Rock, Top 40"
+The Container Bar,4e29e18dd22d3f83c87def5b,"['90 Rainey St (Davis)', 'Austin, TX 78701', 'United States']",30.2603186133979,-97.7383642806243,7.7,1000,"Electronic, DJ"
+Spider House Patio Bar & Cafe,40b3de00f964a5200f001fe3,"['2908 Fruth St (at W 29th St)', 'Austin, TX 78705', 'United States']",30.2954790105687,-97.7417253129234,8.5,2000,All
+The Elephant Room,4101a680f964a520640b1fe3,"['315 Congress Ave (at 3rd St.)', 'Austin, TX 78701', 'United States']",30.2656716147117,-97.743575393398,8.7,30,Jazz
+Auditorium Shores at Lady Bird Lake,4a1f1b1ef964a520087c1fe3,"['800 W. Riverside Dr.', 'Austin, TX 78704', 'United States']",30.2597922126382,-97.749012589274,9.5,3000,All
+Vulcan Gas Company,5319373d498e20ab5c0d1da0,"['418 E 6th St (at Neches St)', 'Austin, TX 78701', 'United States']",30.2669783337554,-97.7385907893251,6.7,658,"All, DJ, Electronic"
+Rainey Street,4f125602e4b000502d0ae954,"['Austin, TX 78701', 'United States']",30.2591868047755,-97.7385750068144,8.7,,
+Mohawk Outdoor,5c782de11ffe97002cd4b204,"['912 Red River St', 'Austin, TX 78701', 'United States']",30.2701268571393,-97.7362471818924,,900,All
+Hole In The Wall,40b13b00f964a520adf31ee3,"['2538 Guadalupe St', 'Austin, TX 78705', 'United States']",30.2899729904908,-97.7414803005755,7.9,375,"Bluegrass, Country, Indie, Punk, Rock "
+9th & Trinity Lot,4f43ec667beb9a3ad852284b,"['Trinity St (E 9th St)', 'Austin, TX 78701', 'United States']",30.2694940270438,-97.7377209851386,,,
+Stay Gold,54c31018498e78ed16522991,"['1910 E Cesar Chavez St', 'Austin, TX 78702', 'United States']",30.2571082280324,-97.7236718324839,8.4,92,"Blues, Funk, Jazz, R&B, Soul"
+Beerland,424b3d80f964a52098201fe3,"['711 Red River St (E. 7th Street)', 'Austin, TX 78701', 'United States']",30.2677350466036,-97.7366101740864,7.3,,
+720 Club Patio,550a5c05498ee6451e95456b,"['Austin, TX', 'United States']",30.26838,-97.736852,,,
+Stubb's Indoors,568cc4ad498ec9bbe7a7e8a7,"['Austin, TX', 'United States']",30.2684898,-97.7361558,,150,All
+720 Club,5c7897f3d0a149002c095b1a,"['720 Red River St', 'Austin, TX 78701', 'United States']",30.2682933807373,-97.7367706298828,,,
+The Fusion Room Austin,4cf05a2d899c6ea83c29eac1,"['1109 N Interstate 35 (12th st.)', 'Austin, TX 78702', 'United States']",30.2713718414307,-97.7314910888672,,,
+Venue 222,4d4e2ccc20d3236aaff89828,"['222 E 6th St', 'Austin, TX 78701', 'United States']",30.2675029265826,-97.7405470442191,,,
+505 east 7th St,5143bdb2e4b08e9c807d2343,"['505 E 7th St', 'Austin, TX 78701', 'United States']",30.2673883848298,-97.7375512429336,,,
+Red 7,43fda18af964a520f22f1fe3,"['611 E 7th St', 'Austin, TX 78701', 'United States']",30.2671083012956,-97.7361687791281,6.9,,
+Mi Casa Cantina,4b5bc06cf964a520291429e3,"['503 E 6th St (Neches St)', 'Austin, TX 78701', 'United States']",30.2667598619085,-97.738222908054,,100,All
+The Treehouse,4d4fede68a592c0f4387919f,"['501 E 6th St (neches)', 'Austin, TX 78701', 'United States']",30.266713679897,-97.7382743741628,,,
+Nuvola,4d6e9cff451c41bdca042845,"['105 E 5th St', 'Austin, TX 78701', 'United States']",30.2668002287654,-97.7423386605216,,,
+Historic Old Emo's,51f86950498ea6c3f0921023,"['603 Red River St (Sixth st)', 'Austin, TX 78701', 'United States']",30.2668850776125,-97.736776799315,,,
+The Annex at 6th & Red River,513fcc11e4b052f648711853,"['522 E 6th St (Red River Street)', 'Austin, TX 78701', 'United States']",30.2667776673103,-97.737232977402,,,
+Scratch House,56d6985d498e31cfad1eb43e,"['617 E 7th St', 'Austin, TX 78701', 'United States']",30.267036524829,-97.736045960279,,,
+Des Moines Embassy,5501e879498e0576cfae0bca,"['523 E 6th St (Red River Street)', 'Austin, TX 78701', 'United States']",30.2667671950474,-97.7370738451756,,,
+GRINDHOUSE,522d337c11d2b1afe7aff9c1,"['603 Red River St (Sixth Street)', 'Austin, TX 78701', 'United States']",30.2668209075928,-97.7368392944336,,,
+ScratcHouse Backyard,5c782f68835c9a002c880d88,"['617 E 7th St', 'Austin, TX 78701', 'United States']",30.266939163208,-97.7361373901367,,,
+Klub Krucial,4b896955f964a520bb3332e3,"['612 E 6th St', 'Austin, TX 78701', 'United States']",30.2663648656842,-97.7365138760595,,,
+The North Door,4e5ecaad7d8b67dc8ff98739,"['501 N Interstate 35 (at E 5th St)', 'Austin, TX 78702', 'United States']",30.2649197125511,-97.7341554779943,7.8,,
+Auditorium Shores Dog Park,4bb3d775eb3e9521adb7cb0a,"['800 W Riverside Dr.', 'Austin, TX 78704', 'United States']",30.2638101868321,-97.7537846916169,9.3,,
+Latitude 30,440fedb2f964a520b0301fe3,"['512 San Jacinto Blvd (at E 5th St)', 'Austin, TX 78701', 'United States']",30.2670759919339,-97.7406176422443,5.8,,
+2nd Street Soundcheck,4fca2abae4b098b3ef0aa12b,"['Austin, TX 78701', 'United States']",30.2652642245511,-97.7475329119681,,,
+Lemon Lounge,586db203f59572200af48dcc,"['908 E 5th St (San Marcos St)', 'Austin, TX 78702', 'United States']",30.264424,-97.733249,,,
+1100000,51abea86e4b0f65d6adf5d32,"['1000 E 5th St', 'Austin, TX 78702', 'United States']",30.2638877419522,-97.731042998893,,,
+The Main,4f513b1e7bebff6f56e2a763,"['603 Red River St (6th St)', 'Austin, TX 78701', 'United States']",30.2665142309459,-97.7366811651472,5.1,,
+Pine Street Station,4bd0fa8d77b29c7448f88b82,"['1076 E 5th St.', 'Austin, TX 78702', 'United States']",30.263453231816,-97.73154062649,,,
+Half Step,52b9e56111d2edfe8e095920,"['75 1/2 Rainey St', 'Austin, TX 78701', 'United States']",30.2586532804143,-97.7386860729777,8.4,500,"Jazz, R&B"
+Banger's Sausage House & Beer Garden,4feb8f93e4b0a19839c43cd2,"['79 & 81 Rainey St (btwn Davis & River St.)', 'Austin, TX 78701', 'United States']",30.2589514926544,-97.7384851250726,9.1,2000,All
+7CO,5a5015b9fdb9a758f67a5c03,"['Austin, TX 78702', 'United States']",30.26408,-97.726961,,200,All
+Converse Rubber Tracks,5140d36de4b0a324762abbf9,"['Austin, TX', 'United States']",30.2619015547381,-97.7300352561394,,,
+Hotel Vegas Patio,5c782bdc2be425002c9236c9,"['1500 E 6th St', 'Austin, TX 78702', 'United States']",30.2635803222656,-97.7272033691406,,,
+Saxon Pub,40b13b00f964a520e2f31ee3,"['1320 S Lamar Blvd', 'Austin, TX 78704', 'United States']",30.2534102313961,-97.7632693739411,8.5,168,All
+Victory Grill,45fbf9a7f964a5206a441fe3,"['1104 E 11th St', 'Austin, TX 78702', 'United States']",30.2691388182862,-97.7286193289476,6.5,200,"Blues, R&B, Jazz"
+green eggs and jams,58cc17806c682b5ee1652eaa,"['1649 E. Sixth Street', 'Austin, TX', 'United States']",30.261886,-97.725775,,,
+Flamingo Cantina,40b13b00f964a520a3f31ee3,"['515 E 6th St', 'Austin, TX 78701', 'United States']",30.2665017078346,-97.7377392304202,7.4,299,"Dub, Funk, Hip Hop, Jam Band, Reggae "
+The Rumbler Lounge,4ba11454f964a520b39537e3,"['402 E 6th St (Trinity)', 'Austin, TX 78701', 'United States']",30.2673053741455,-97.7390213012695,,,
+Galaxy Room Backyard,4ba18aa0f964a52049bf37e3,"['508 E 6th St', 'Austin, TX 78701', 'United States']",30.267037,-97.737747,,,
+604 E. 6th Street,4ba29437f964a520220638e3,"['604 E 6th St', 'Austin, TX 78701', 'United States']",30.266671,-97.736849,,,
